@@ -95,9 +95,11 @@ Supported printers (some might have quirks)
 	PT-E500
 	PT-P700
 	PT-P750W
+	PT-D410
 	PT-D450
 	PT-D460BT
 	PT-D600
+	PT-D610BT
 	PT-P710BT
 ```
 
